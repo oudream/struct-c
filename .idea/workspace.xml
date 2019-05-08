@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled1" targetName="struct-c" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3684aec2-1bd2-4841-87e4-643310ec5964" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/aatree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/aatree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/avltree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/avltree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binheap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binheap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binomial.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binomial.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/cursor.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/cursor.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/disjsets.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/dsl.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/dsl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fatal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_38.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_40.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_43.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_45.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_46.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_53.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_55.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_62.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig1_2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig1_3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig1_4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig2_10.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig2_11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig2_9.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashfunc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashquad.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashquad.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashsep.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashsep.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/kdtree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/leftheap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/leftheap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/list.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/list.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/max_sum.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/pairheap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/pairheap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/poly.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/queue.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/queue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/redblack.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/redblack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/sort.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/splay.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/splay.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/stackar.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/stackar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/stackli.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/stackli.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testaa.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testavl.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testbin.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testcurs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testdsl.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testhash.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testheap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testleft.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testlist.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testpair.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testque.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testrb.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testsply.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/teststka.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/teststkl.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testtree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testtrp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/treap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/treap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/tree.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/tree.h" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="struct-c" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="struct-c" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="struct-c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="struct-c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="struct-c" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="struct-c" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="struct-c" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.struct-c" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3684aec2-1bd2-4841-87e4-643310ec5964" name="Default" comment="" />
+      <created>1494426224164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494426224164</updated>
+      <workItem from="1494426225672" duration="1284000" />
+      <workItem from="1494463997310" duration="1712000" />
+      <workItem from="1494550162657" duration="775000" />
+      <workItem from="1494559486605" duration="1198000" />
+      <workItem from="1494808352126" duration="252000" />
+      <workItem from="1494816725870" duration="539000" />
+      <workItem from="1499728132953" duration="1818000" />
+      <workItem from="1557290871177" duration="853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8431000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21163167" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Reviews" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.329927" />
+      <window_info anchor="right" id="make" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="News Feed" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testaa.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/treap.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="1" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/dsl.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/aatree.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binheap.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/avltree.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binomial.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fatal.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig1_4.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig1_2.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig2_9.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_45.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testbin.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testcurs.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testlist.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/aatree.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
