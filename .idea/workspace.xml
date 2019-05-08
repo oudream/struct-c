@@ -2,7 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="untitled1" targetName="struct-c" />
+      <config projectName="structs" targetName="structs_cpp" />
+      <config projectName="structs" targetName="structs_c" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -12,81 +13,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3684aec2-1bd2-4841-87e4-643310ec5964" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/aatree.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/aatree.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/avltree.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/avltree.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binheap.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binheap.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binomial.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/binomial.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/cursor.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/cursor.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/disjsets.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/dsl.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/dsl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fatal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_38.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_40.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_43.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_45.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_46.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_53.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_55.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig10_62.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig1_2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig1_3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig1_4.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig2_10.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig2_11.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/fig2_9.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashfunc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashquad.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashquad.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashsep.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/hashsep.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/kdtree.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/leftheap.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/leftheap.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/list.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/list.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/max_sum.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/pairheap.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/pairheap.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/poly.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/queue.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/queue.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/redblack.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/redblack.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/sort.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/splay.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/splay.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/stackar.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/stackar.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/stackli.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/stackli.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testaa.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testavl.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testbin.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testcurs.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testdsl.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testhash.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testheap.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testleft.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testlist.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testpair.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testque.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testrb.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testsply.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/teststka.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/teststkl.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testtree.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/testtrp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/treap.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/treap.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/tree.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structures_and_algorithm_analysis_in_c/tree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,16 +37,76 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/c/cursor.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="-2694" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp/TestMemoryCell.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp/TestRedBlackTree.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-178" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp/TestRandom.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp/TestSlowDisjSets.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp/TestSplayTree.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp/Treap.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp/UniformRandom.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp/Vector.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cpp/WordLadder.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>result</find>
+      <find>${curdir}/${subdir}</find>
+      <find>subdir</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>${curdir}</replace>
+      <replace>curdir</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -139,8 +135,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="structs" type="b2602c69:ProjectViewProjectNode" />
               <item name="struct-c" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="structs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="struct-c" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,8 +150,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
@@ -179,7 +184,12 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="struct-c" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="struct-c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="struct-c">
+    <configuration name="structs_c" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="structs" TARGET_NAME="structs_c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="structs" RUN_TARGET_NAME="structs_c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="structs_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="structs" TARGET_NAME="structs_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="structs" RUN_TARGET_NAME="structs_cpp">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -244,7 +254,8 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.Build All" />
-      <item itemvalue="CMake Application.struct-c" />
+      <item itemvalue="CMake Application.structs_c" />
+      <item itemvalue="CMake Application.structs_cpp" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -264,12 +275,12 @@
       <workItem from="1494808352126" duration="252000" />
       <workItem from="1494816725870" duration="539000" />
       <workItem from="1499728132953" duration="1818000" />
-      <workItem from="1557290871177" duration="853000" />
+      <workItem from="1557290871177" duration="4652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8431000" />
+    <option name="totallyTimeSpent" value="12230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -291,7 +302,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.329927" />
       <window_info anchor="right" id="make" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -382,10 +393,71 @@
     <entry file="file://$PROJECT_DIR$/c/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/hello-dir1.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils-fs.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="201">
+          <caret line="63" column="29" lean-forward="true" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c/aatree.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c/aatree.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c/cursor.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c/cursor.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2694" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/TestMemoryCell.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/TestRedBlackTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/TestRandom.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/TestSlowDisjSets.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/TestSplayTree.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/Treap.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/UniformRandom.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/Vector.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp/WordLadder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>

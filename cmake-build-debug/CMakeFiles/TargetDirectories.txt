@@ -1,3 +1,4 @@
 /ddd/algorithm/struct-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /ddd/algorithm/struct-c/cmake-build-debug/CMakeFiles/edit_cache.dir
-/ddd/algorithm/struct-c/cmake-build-debug/CMakeFiles/struct-c.dir
+/ddd/algorithm/struct-c/cmake-build-debug/CMakeFiles/structs_cpp.dir
+/ddd/algorithm/struct-c/cmake-build-debug/CMakeFiles/structs_c.dir

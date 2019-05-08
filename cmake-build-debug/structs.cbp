@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="structs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/ddd/algorithm/struct-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/ddd/algorithm/struct-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/ddd/algorithm/struct-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="structs_cpp">
+				<Option output="/ddd/algorithm/struct-c/cmake-build-debug/structs_cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/ddd/algorithm/struct-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 structs_cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="structs_cpp/fast">
+				<Option output="/ddd/algorithm/struct-c/cmake-build-debug/structs_cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/ddd/algorithm/struct-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 structs_cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="structs_c">
+				<Option output="/ddd/algorithm/struct-c/cmake-build-debug/structs_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/ddd/algorithm/struct-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 structs_c"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="structs_c/fast">
+				<Option output="/ddd/algorithm/struct-c/cmake-build-debug/structs_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/ddd/algorithm/struct-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 structs_c/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/ddd/algorithm/struct-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/ddd/algorithm/struct-c/c/aatree.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/aatree.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/avltree.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/avltree.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/binheap.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/binheap.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/binomial.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/binomial.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/cursor.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/cursor.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/disjsets.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/dsl.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/dsl.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fatal.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_38.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_40.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_43.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_45.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_46.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_53.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_54.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_55.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig10_62.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig1_2.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig1_3.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig1_4.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig2_10.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig2_11.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/fig2_9.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/hashfunc.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/hashquad.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/hashquad.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/hashsep.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/hashsep.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/kdtree.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/leftheap.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/leftheap.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/list.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/list.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/max_sum.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/pairheap.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/pairheap.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/poly.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/queue.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/queue.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/redblack.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/redblack.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/sort.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/splay.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/splay.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/stackar.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/stackar.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/stackli.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/stackli.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testaa.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testavl.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testbin.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testcurs.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testdsl.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testhash.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testheap.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testleft.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testlist.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testpair.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testque.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testrb.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testsply.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/teststka.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/teststkl.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testtree.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/testtrp.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/treap.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/treap.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/tree.c">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/c/tree.h">
+			<Option target="structs_c"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/AvlTree.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/BinaryHeap.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/BinarySearchTree.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/BinomialQueue.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/BuggyIntCell.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/CaseInsensitiveHashTable.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/CuckooHashTable.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/CuckooHashTable.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/DisjSets.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/DisjSets.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_02.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_03.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_04.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_05.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_06.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_10.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_11.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_18.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_21.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_23.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_24.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig01_25.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig02_09.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig02_10.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig02_11.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig10_38.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig10_40.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig10_43.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig10_45.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig10_46.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig10_53.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Fig10_63.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/FindMax.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/IntCell.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/IntCell.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/KdTree.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/LambdaExample.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/LeftistHeap.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/List.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/MaxSumTest.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/MemoryCell.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/MemoryCell.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/MemoryCellExpand.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/PairingHeap.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/QuadraticProbing.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/QuadraticProbing.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/RadixSort.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Random.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Random.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/RedBlackTree.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/RemoveEveryOtherItem.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/SeparateChaining.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/SeparateChaining.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Sort.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/SplayTree.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/SuffixArray.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TailRecursion.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestAvlTree.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestBinaryHeap.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestBinarySearchTree.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestBinomialQueue.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestCuckooHashTable.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestFastDisjSets.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestIntCell.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestLeftistHeap.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestList.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestMemoryCell.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestPQ.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestPairingHeap.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestQuadraticProbing.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestRandom.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestRedBlackTree.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestSeparateChaining.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestSlowDisjSets.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestSort.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestSplayTree.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestTreap.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/TestVector.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Treap.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/UniformRandom.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/Vector.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/WordLadder.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/dsexceptions.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/mapDemo.cpp">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/cpp/matrix.h">
+			<Option target="structs_cpp"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/ddd/algorithm/struct-c/utils-fs.cmake">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
